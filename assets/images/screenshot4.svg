@@ -1,0 +1,18 @@
+<svg width="300" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#E1F5FE"/>
+  <rect x="20" y="40" width="260" height="50" rx="10" fill="#4FC3F7"/>
+  <rect x="20" y="110" width="260" height="400" rx="10" fill="#FFFFFF" stroke="#B3E5FC" stroke-width="2"/>
+  <text x="150" y="70" font-family="Arial" font-size="16" fill="#FFFFFF" text-anchor="middle">Word Details</text>
+  <text x="150" y="150" font-family="Arial" font-size="24" font-weight="bold" fill="#263238" text-anchor="middle">Serendipity</text>
+  <text x="150" y="180" font-family="Arial" font-style="italic" font-size="14" fill="#666666" text-anchor="middle">/ˌsɛrənˈdɪpɪti/</text>
+  <line x1="40" y1="200" x2="260" y2="200" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="40" y="230" font-family="Arial" font-size="16" fill="#263238">Definition:</text>
+  <text x="40" y="260" font-family="Arial" font-size="14" fill="#666666">The occurrence of events by chance in a happy or beneficial way.</text>
+  <line x1="40" y1="280" x2="260" y2="280" stroke="#E0E0E0" stroke-width="1"/>
+  <text x="40" y="310" font-family="Arial" font-size="16" fill="#263238">Example:</text>
+  <text x="40" y="340" font-family="Arial" font-size="14" fill="#666666">Finding a valuable book by chance while looking for something else was pure serendipity.</text>
+  <rect x="40" y="380" width="100" height="40" rx="20" fill="#4FC3F7"/>
+  <text x="90" y="405" font-family="Arial" font-size="14" fill="#FFFFFF" text-anchor="middle">Listen</text>
+  <rect x="160" y="380" width="100" height="40" rx="20" fill="#FFFFFF" stroke="#4FC3F7" stroke-width="2"/>
+  <text x="210" y="405" font-family="Arial" font-size="14" fill="#4FC3F7" text-anchor="middle">Favorite</text>
+</svg>
